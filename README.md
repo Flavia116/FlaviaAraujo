@@ -6,9 +6,9 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 🎯 **Objetivo:** Unir minha experiência financeira com habilidades técnicas para entregar soluções práticas e escaláveis em dados e desenvolvimento.  
 
-📍 **Localização:** Toledo - PR  
+📍 **Localização:** São Paulo - SP 
 
-🔗 **Contato:** [LinkedIn](https://linkedin.com/in/seunome) | [WhatsApp](https://wa.me/seunumerodetelefone)
+🔗 **Contato:** [LinkedIn](https://linkedin.com/in/lflaviaaraujo) | [WhatsApp](https://wa.me/11991361011)
 
 ---
 
