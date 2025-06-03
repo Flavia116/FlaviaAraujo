@@ -20,6 +20,16 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 ---
 
+## 📜 Certificados
+
+
+
+
+
+
+
+---
+
 ## 🚀 Habilidades
 
 - Python (nível iniciante/intermediário)  
