@@ -5,7 +5,9 @@ Estou estudando Python, SQL,  Power BI e automatizações com foco em resolver p
 
 
 🎯 **Objetivo:**Unir minha experiência financeira com habilidades técnicas para entregar soluções práticas e escaláveis em dados e desenvolvimento. 
+
 📍 **Localização: Guarapiranga - SP
+
 🔗 **LinkedIn: [linkedin.com/in/lflaviaaraujo](https://linkedin.com/in/lflaviaaraujo)
 
 
