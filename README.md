@@ -33,7 +33,7 @@
 
 ## 📫 Contato
 - Email: lflavia.araujo@gmail.com
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/lflaviaaraujo)
+- LinkedIn: [linkedin.com/in/lflaviaaraujo](https://linkedin.com/in/lflaviaaraujo)
 
 
 Atualiza o README do perfil
