@@ -1,4 +1,4 @@
-# Olá! Eu sou Flavia Araújo 👋
+## Olá! Eu sou Flavia Araújo 👋
 
 Tenho 35 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.  
 
