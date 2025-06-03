@@ -1,6 +1,6 @@
 # Olá! Eu sou Flavia Araújo 👋
 
-Tenho 28 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados e Desenvolvimento Back-End.  
+Tenho 28 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.  
 
 Busco aplicar minha expertise em análise, organização e gestão de dados para resolver problemas reais, automatizar processos e gerar valor estratégico.  
 
