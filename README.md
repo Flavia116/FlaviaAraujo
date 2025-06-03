@@ -1,6 +1,6 @@
 # Olá! Eu sou Flavia Araújo 👋
 
-Tenho 28 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.  
+Tenho 35 anos, sou gestora com mais de 35 anos de experiência no setor financeiro e atualmente estou em transição de carreira para Ciência de Dados.  
 
 Busco aplicar minha expertise em análise, organização e gestão de dados para resolver problemas reais, automatizar processos e gerar valor estratégico.  
 
@@ -16,7 +16,6 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)  
 
 ---
