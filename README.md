@@ -1,5 +1,13 @@
 # Olá! Eu sou Flavia Araújo 👋
 
+Tenho 35 anos, atualmente estou em transição de carreira para Ciência de Dados.  
+Estou estudando Python, SQL,  Power BI e automatizações com foco em resolver problemas reais.
+
+
+🎯 **Objetivo:**Unir minha experiência financeira com habilidades técnicas para entregar soluções práticas e escaláveis em dados e desenvolvimento. 
+📍 **Localização: Guarapiranga - SP
+🔗 **LinkedIn: [linkedin.com/in/lflaviaaraujo](https://linkedin.com/in/lflaviaaraujo)
+
 
 
 
