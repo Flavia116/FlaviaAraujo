@@ -20,13 +20,13 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 ---
 
-### 📜 Certificados
+## 🎓 Certificados Selecionados
 
+- 📊 [Fundamentos de Business Intelligence (BI) – 120h](https://hermes.dio.me/certificates/623KDUOS.pdf)
+- 🧮 [Introdução à Análise de Dados com SQL – 180h](https://hermes.dio.me/certificates/FOLUJGWR.pdf)
+- 🧠 [Lógica de Pensamento Computacional – 60h](https://hermes.dio.me/certificates/1TFH7WSW.pdf)
 
-
-
-
-
+📂 Veja todos os meus certificados na [minha página da DIO](https://web.dio.me/users/lflavia_araujo?tab=skills&page=1)
 
 ---
 
