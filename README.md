@@ -8,7 +8,7 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 📍 **Localização:** São Paulo - SP 
 
-🔗 **Contato:** [LinkedIn](https://linkedin.com/in/lflaviaaraujo) | [WhatsApp](https://wa.me/11991361011)
+🔗 **Contato:** [LinkedIn](https://linkedin.com/in/lflaviaaraujo) | [WhatsApp](https://wa.me/11991461011)
 
 ---
 
