@@ -14,6 +14,8 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 
 ### 🛠️ Ferramentas e Tecnologias
 
+Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)  
