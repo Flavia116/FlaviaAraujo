@@ -27,7 +27,7 @@ Busco aplicar minha expertise em análise, organização e gestão de dados para
 - 🧠 [Lógica de Pensamento Computacional](https://hermes.dio.me/certificates/1TFH7WSW.pdf)
 
 
-📂 Veja todos os meus certificados na [página oficial](https://web.dio.me/certificates))
+📂 Veja todos os meus certificados completos na [página oficial da DIO](https://web.dio.me/certificates)
 
 ---
 
