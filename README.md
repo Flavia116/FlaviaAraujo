@@ -44,36 +44,5 @@ Aqui estão algumas das principais tecnologias e linguagens que venho utilizando
 
 ## 📌 Projetos em destaque
 
-# 📁 Projeto: Sistema de Ordem de Serviço
-
-Este projeto foi desenvolvido como parte de um exercício de banco de dados com modelagem no **MySQL Workbench**.
-
-## 🎯 Objetivo
-Criar um modelo de banco de dados relacional para gerenciar ordens de serviço em uma oficina. A ideia é estruturar e armazenar dados como: clientes, veículos, serviços prestados, mecânicos e status das ordens.
-
-## 🧰 Ferramentas utilizadas
-- MySQL Workbench
-- Modelagem ER (entidade-relacionamento)
-- Git e GitHub
-
-## 🧱 Estrutura do banco
-O banco foi modelado com as seguintes entidades:
-- Clientes
-- Veículos
-- Ordens de Serviço
-- Mecânicos
-- Serviços
-- Peças
-- Status da Ordem
-
-## 🗂️ Arquivos incluídos
-- `ordem-servico.mwb`: Arquivo do modelo criado no MySQL Workbench
-
-## 📌 Como visualizar
-Para abrir o modelo, use o [MySQL Workbench](https://dev.mysql.com/downloads/workbench/). Basta abrir o arquivo `.mwb` incluído neste repositório.
-
-## ✍️ Autoria
-Projeto desenvolvido por **Flavia Araújo**, como parte do processo de aprendizado em bancos de dados relacionais.
-
 
 ---
